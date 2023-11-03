@@ -1,6 +1,6 @@
 # ZK 信条
 
-## 自由 → 进步 → 繁荣
+## 自由 → 进步 → 繁荣1
 
 ![自由 → 进步 → 繁荣](freedom-progress-prosperity.jpeg)
 
